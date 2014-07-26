@@ -1,7 +1,7 @@
 Tic tac toe
 ===========
 
-Tic tac toe game implementation in Scheme usinx Minmax algorithm.
+Tic tac toe game implementation in Scheme using Minmax algorithm.
 
 Written in 2008 as a homework for "Functional Programming" lab.
 
